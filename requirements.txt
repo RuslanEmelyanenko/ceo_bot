@@ -1,4 +1,4 @@
-aiogram==3.13.1
-openai==1.51.0
-edge-tts==6.1.12
-aiohttp==3.10.5
+aiogram>=3.8,<3.14
+openai>=1.40
+edge-tts>=6.1
+aiohttp>=3.9
